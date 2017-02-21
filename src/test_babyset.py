@@ -1,6 +1,7 @@
 # test_babyset.py
 # Demonstrates unit testing using the pytest module.
 # pytest must be installed through pip.
+# Zhengyu helped get the KeyError working through try and except.
 import pytest
 from baby_set import BabySet
 

@@ -1,5 +1,5 @@
 # baby_set.py
-
+# Freddie helped me find the error in the add codeblock
 class BabySet:
 	""" A class the mimics the behavior of python's built in 
 	Set class. Implemented as a list."""
